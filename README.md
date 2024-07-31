@@ -227,3 +227,43 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Editors Guide</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            text-align: center;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem;
+        }
+        main {
+            padding: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Video Editors Guide</h1>
+    </header>
+    <main>
+        <h2>Popular Video Editors</h2>
+        <div class="image-gallery">
+            <img src="images/editor1.jpg" alt="Video Editor 1">
+            <img src="images/editor2.jpg" alt="Video Editor 2">
+            <img src="images/editor3.jpg" alt="Video Editor 3">
+        </div>
+    </main>
+</body>
+</html>
