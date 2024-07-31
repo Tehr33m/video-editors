@@ -267,3 +267,6 @@
     </main>
 </body>
 </html>
+git add index.html images/
+git commit -m "Add images and custom fonts"
+git push origin main
